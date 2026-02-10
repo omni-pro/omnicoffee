@@ -5,19 +5,19 @@
         "author": "https://author-p149891-e1546481.adobeaemcloud.com",
         "publish": "https://publish-p149891-e1546481.adobeaemcloud.com"
       },
-      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
-      "commerce-endpoint": "https://catalog-service-sandbox.adobe.io/graphql",
+      "commerce-core-endpoint": "https://aem.demo.omni.pro/graphql",
+      "commerce-endpoint": "https://catalog-service.adobe.io/graphql",
       "headers": {
         "all": {
-          "Store": "default"
+          "Store": "omni_coffee_store"
         },
         "cs": {
           "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
-          "Magento-Store-Code": "main_website_store",
-          "Magento-Store-View-Code": "default",
-          "Magento-Website-Code": "base",
-          "x-api-key": "catalog-service-sandbox-apollo",
-          "Magento-Environment-Id": "e731ca28-168d-4ba3-8cb4-e647f0418e7a"
+          "Magento-Store-Code": "omni_coffee_store",
+          "Magento-Store-View-Code": "omni_coffee_storeview",
+          "Magento-Website-Code": "omni_coffee_website",
+          "x-api-key": "search_gql"",
+          "Magento-Environment-Id": "efdecb3d-7c46-4d09-9e5c-2a8eb0e76296"
         }
       },
       "analytics": {
