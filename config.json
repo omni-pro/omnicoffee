@@ -16,7 +16,7 @@
           "Magento-Store-Code": "omni_coffee_store",
           "Magento-Store-View-Code": "omni_coffee_storeview",
           "Magento-Website-Code": "omni_coffee_website",
-          "x-api-key": "search_gql"",
+          "x-api-key": "search_gql",
           "Magento-Environment-Id": "efdecb3d-7c46-4d09-9e5c-2a8eb0e76296"
         }
       },
