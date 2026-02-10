@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p34631-e1321407.adobeaemcloud.com/bin/franklin.delivery/omni-pro/omnicoffee/main2"
+    url: "https://author-p34631-e1321407.adobeaemcloud.com/bin/franklin.delivery/omni-pro/omni-coffee/main"
     type: "markup"
     suffix: ".html"
 folders:
